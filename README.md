@@ -42,6 +42,6 @@ print("Gender : ",result['gender'])
 
 ![SA - Gender Classifier - Jupyter Notebook and 4 more pages - Profile 1 - Microsoft​ Edge 13-06-2022 14_20_45 (2)](https://user-images.githubusercontent.com/75235386/173318058-de42aabf-150c-4d2e-a62d-f45d4d4c3ea1.png)
 
-2. DEMO VIDEO YOUTUBE LINK:
+2. DEMO VIDEO YOUTUBE LINK: https://youtu.be/0iiM3Tlu584
 
 
